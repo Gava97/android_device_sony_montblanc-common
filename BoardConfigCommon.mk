@@ -21,7 +21,7 @@ TARGET_ARCH_VARIANT := armv7-a-neon
 ARCH_ARM_HAVE_TLS_REGISTER := true
 
 # RIL implementation
-BOARD_RIL_CLASS := ../../../device/sony/montblanc-common/telephony-common/
+#BOARD_RIL_CLASS := ../../../device/sony/montblanc-common/telephony-common/
 
 # Kernel information
 BOARD_KERNEL_ADDRESS := 0x00008000
